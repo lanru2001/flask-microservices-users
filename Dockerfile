@@ -1,3 +1,4 @@
+#Using Python:3.6.1 base image 
 FROM python:3.6.1
 
 # install environment dependencies
