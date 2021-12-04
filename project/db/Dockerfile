@@ -1,3 +1,4 @@
+#Dockerize Postgres DB
 FROM postgres
 
 # run create.sql on init
